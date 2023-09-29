@@ -6,11 +6,14 @@ Our goal in the workshop is to build a simple application which navigates betwee
 Each will render a simple component with the background being that specific color. 
  
 1 Initialize Project + React Router Configuration 
+
     a. install npm create vite@latest -- React and JavaScript 
 
     b. Follow prompts and npm install in the desired folder. 
 
-    c. Remove the boilerplate in the App.jsx and npm run dev, replace CSS + App.jsx code with what is given in workshop (that'll be our reference and startup)
+    c. Remove the boilerplate in the App.jsx and npm run dev, replace CSS + App.jsx code with what is given in workshop 
+    
+    (that'll be our reference and startup)
 
     d. Install npm install react-router-dom 
 
@@ -23,6 +26,7 @@ Each will render a simple component with the background being that specific colo
     
 
 2 NavBar + MainSection 
+
     a. Create a navBar file 
 
     b.  Import your Link from React Router 'import { Link } from "react-router-dom";'
