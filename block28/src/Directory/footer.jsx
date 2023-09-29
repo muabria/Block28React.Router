@@ -7,6 +7,7 @@ const Footer = () => {
                 <Link to="/home">Home</Link>
                 <Link to="/blue">Blue</Link>
                 <Link to="/red">Red</Link>
+                <Link to="/orange">Orange</Link>
            
         </div>
     )

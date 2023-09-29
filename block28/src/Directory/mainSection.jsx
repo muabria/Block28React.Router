@@ -14,7 +14,8 @@ const mainSection = () => {
             <Route path="/blue" element= {<Blue/>} />
             <Route path="/red" element= {<Red/>} />
             <Route path="/orange" element= {<Orange/>} />
-            </Routes>
+            
+        </Routes>
     </div>
     )
 }

@@ -33,6 +33,8 @@ Each will render a simple component with the background being that specific colo
 
     c.  Create Two or more Route components one "/blue", "/red", and "/orange"
 
-     
+    d. Create your MainSection for better directory to import all files(Colors, Footer, navBar, and etc) to that jsx file so you can import MainSection into your App.jsx file and render all info from MinSection
+
+    e. 
 
 

@@ -23,6 +23,7 @@
           #navbar {
             padding: 2em;
             justify-content: space-evenly;
+            background-color: #ffebcd;
           }
           
           #main-section {
@@ -36,17 +37,49 @@
             justify-content: center;
           }
           
+          .home {
+            background-color: #e1d8cc;
+
+          }
+          
           .red {
-            background-color: #b05f6d;
+            background-color: #f45671;
+            color: white;
+          }
+          .medRed {
+            background-color: #b5273f;
+            color: white;
+          }
+          .darkRed {
+            background-color: #780619;
             color: white;
           }
           
+
           .blue {
-            background-color: #275db3;
+            background-color: #4480e0;
             color: white;
           }
+          .medBlue {
+            background-color: #1a5bc3;
+            color: white;
+          }
+          .darkBlue {
+            background-color: #052559;
+            color: white;
+          }
+
+          
           .orange {
-            background-color: #e68429;
+            background-color: #ed8d33;
+            color: white;
+          }
+          .medOrange {
+            background-color: #be630e;
+            color: white;
+          }
+          .darkOrange { 
+            background-color: #994102;
             color: white;
           }
           
